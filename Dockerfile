@@ -1,4 +1,4 @@
-FROM circle/node:8
+FROM node:8.4.0-alpine
 
 ENV YARN_VERSION 0.27.5
 ENV TYPESCRIPT_VERSION 2.4.2
