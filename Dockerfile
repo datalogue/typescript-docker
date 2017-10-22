@@ -1,4 +1,4 @@
-FROM node:8.4.0
+FROM node:8.7.0
 
 ENV TYPESCRIPT_VERSION 2.4.2
 
