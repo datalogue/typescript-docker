@@ -3,8 +3,8 @@ Typescript-docker
 
 This contains an ubuntu docker image with:
 
-- node 8.4.0
-- yarn 0.27.5
+- node 8.7.0
+- yarn 1.2.0
 - typescript 2.4.2
 
 you can pull it from quay.io:
